@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WangC_MP1
+namespace FlappyBird
 {
     /// <summary>
     /// The main class.

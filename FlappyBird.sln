@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33130.400
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WangC_MP1", "WangC_MP1\WangC_MP1.csproj", "{05906DFD-A4C0-4F35-9BA4-48C184BE8ED8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBird", "WangC_MP1\FlappyBird.csproj", "{05906DFD-A4C0-4F35-9BA4-48C184BE8ED8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

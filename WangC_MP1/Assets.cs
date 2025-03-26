@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Media;
 
-namespace WangC_MP1
+namespace FlappyBird
 {
     static class Assets
     {

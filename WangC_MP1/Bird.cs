@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace WangC_MP1
+namespace FlappyBird
 {
     public class Bird
     {

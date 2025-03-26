@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace WangC_MP1
+namespace FlappyBird
 {
     class ScoreData
     {

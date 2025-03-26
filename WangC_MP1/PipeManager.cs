@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using System;
 
-namespace WangC_MP1
+namespace FlappyBird
 {
     public class PipeManager
     {
